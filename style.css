@@ -1,0 +1,17 @@
+/* Main Page */
+
+body {
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: center;
+}
+
+#recipes {
+    text-align: center;
+}
+
+ul.recipes{
+    display: inline-block;
+    text-align: left;
+}
